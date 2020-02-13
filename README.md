@@ -4,7 +4,7 @@ gcc run.c -o run.exe<br>
 <br>
 <b>How tu use</b><br>
 1) Add to windows %path%<br>
-<i>DO NOT USE AS ROOT/ADMIN. CHANGE ONLY AS NORMAL USER BECAUSE U CAN REMOVE ALL PATHS IN %PATH%. BE CARFULY ! </i><br>
+<i>DO NOT USE AS ROOT/ADMIN. CHANGE ONLY AS NORMAL USER BECAUSE U CAN REMOVE ALL PATHS IN %PATH%. BE CAREFULLY ! </i><br>
 setx path "%path%;c:\SWMP"<br>
 2) execute from cmd -> command list<br>
 run help - print help<br>
