@@ -1,4 +1,4 @@
-<b>How to compile<b><br>
+<b>How to compile</b><br>
 rm -f run.exe<br>
 gcc run.c -o run.exe<br>
 <br>
