@@ -2,7 +2,7 @@
 rm -f run.exe<br>
 gcc run.c -o run.exe<br>
 <br>
-<b>How tu use<b><br>
+<b>How tu use</b><br>
 1) Add to windows %path%<br>
 setx path "%path%;c:\SWMP"<br>
 2) execute from cmd -> command list<br>
